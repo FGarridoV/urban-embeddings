@@ -1,6 +1,9 @@
 [submodule "step_2/similarity_experiment_platform"]
 	path = step_2/similarity_experiment_platform
 	url = https://github.com:/FGarridoV/urban_similarity_survey.git
-[submodule "step_3/embedding_training"]
-	path = step_3/embedding_training
+[submodule "3_model_training"]
+	path = 3_model_training
 	url = https://github.com/FGarridoV/p2up.git
+[submodule "2_2_web_platform"]
+	path = 2_2_web_platform
+	url = https://github.com/FGarridoV/urban_similarity_survey.git
