@@ -1,3 +1,5 @@
+# This python script was adapted from: https://github.com/christiansafka/img2vec
+
 import numpy as np
 
 from PIL import Image
